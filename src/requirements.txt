@@ -1,2 +1,6 @@
 nltk
 spacy
+scikit-learn
+embeddings
+langchain-huggingface
+sentence_transformers
